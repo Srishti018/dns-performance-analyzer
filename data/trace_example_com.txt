@@ -1,0 +1,58 @@
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @8.8.8.8 +trace example.com
+; (1 server found)
+;; global options: +cmd
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	RRSIG	NS 8 0 518400 20261017050000 20261004040000 8763 . uqsuKZPhVABgVejbIB1FcCf8p+ApA6pVdgTGcJ5GqvO6mnXWZ5C6t5iP dBndeUHiz605WbXSkXAX2fLLRbLld8+TNIKb6uAi9Qq3R4FoCzWtXR40 PIGidN16WD/fuLAR4InY+xK2QxBbEd5B/YLkKlbIA4/Y/ofy7k4dVIeQ YgEiv/2ZCj03Z08H12xh/yxpekDY88BH7ym0bqO/fuLQzCPZLecdVCZe yt+g4aTOXb50FGXOP6EBdVnb2T1pV7+MKJH83sXGEBzuXn79v5lKi+zW pt7w7yi0wuZfx295httmwefS0DtCSR7kWqG439FqYSe4b2eXcpLBNAyS WbuowA==
+;; Received 525 bytes from 8.8.8.8#53(8.8.8.8) in 116 ms
+
+;; UDP setup with 2001:500:2f::f#53(2001:500:2f::f) for example.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 2001:500:2f::f#53(2001:500:2f::f) for example.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 2001:500:2f::f#53(2001:500:2f::f) for example.com failed: network unreachable.
+com.			172800	IN	NS	l.gtld-servers.net.
+com.			172800	IN	NS	f.gtld-servers.net.
+com.			172800	IN	NS	m.gtld-servers.net.
+com.			172800	IN	NS	d.gtld-servers.net.
+com.			172800	IN	NS	a.gtld-servers.net.
+com.			172800	IN	NS	j.gtld-servers.net.
+com.			172800	IN	NS	i.gtld-servers.net.
+com.			172800	IN	NS	e.gtld-servers.net.
+com.			172800	IN	NS	g.gtld-servers.net.
+com.			172800	IN	NS	b.gtld-servers.net.
+com.			172800	IN	NS	h.gtld-servers.net.
+com.			172800	IN	NS	k.gtld-servers.net.
+com.			172800	IN	NS	c.gtld-servers.net.
+com.			86400	IN	DS	19718 13 2 8ACBB0CD28F41250A80A491389424D341522D946B0DA0C0291F2D3D7 71D7805A
+com.			86400	IN	RRSIG	DS 8 1 86400 20261017050000 20261004040000 8763 . CMrAxVldA1ZckP9X5kM6Eic7+LtFTiOqwmKAec4kP+ibhzg2QwwUChFC 9GKGm1rDd4fTFHnGxlUuMRDATC2qeBqF2H8kinbeUeToEIoFy88F2nNl 9fUeIFBriW25YDs0gKb25mbd3wHOXRHykGpaKRNmb8l2wNE0fWjEUplS sdYlXIkckc73UC5OxmDOEBSCZI2JMWZJ6z7VeonoTO2BRtQuKz5J4/4e 4lssxPOdhYvvnwNJI/s0aB9YU2+QANzN5UiFXqka9qqnaY0GwW5Eob4G i1ujP6JrjePum3GW/1Aop5xSZ1IKC3mZUdVkjrY2x9Im20zcpLYxQUyG wsAFag==
+;; Received 1171 bytes from 202.12.27.33#53(m.root-servers.net) in 32 ms
+
+;; UDP setup with 2001:503:a83e::2:30#53(2001:503:a83e::2:30) for example.com failed: network unreachable.
+;; UDP setup with 2001:501:b1f9::30#53(2001:501:b1f9::30) for example.com failed: network unreachable.
+;; UDP setup with 2001:502:7094::30#53(2001:502:7094::30) for example.com failed: network unreachable.
+;; UDP setup with 2001:502:1ca1::30#53(2001:502:1ca1::30) for example.com failed: network unreachable.
+;; UDP setup with 2001:503:83eb::30#53(2001:503:83eb::30) for example.com failed: network unreachable.
+example.com.		172800	IN	NS	hera.ns.cloudflare.com.
+example.com.		172800	IN	NS	elliott.ns.cloudflare.com.
+example.com.		86400	IN	DS	2371 13 2 C988EC423E3880EB8DD8A46FE06CA230EE23F35B578D64E78B29C3E1 C83D245A
+example.com.		86400	IN	RRSIG	DS 13 2 86400 20261008013215 20261001002215 41446 com. PrNA0aIL51LF24FxRfl5zKvn5pRyQn/U1uKPcB4ognn+ss2KYF2CCkMf CSr6Z2fr4NHCpQ/zeLuozK1oz6k5rQ==
+;; Received 506 bytes from 192.48.79.30#53(j.gtld-servers.net) in 135 ms
+
+example.com.		300	IN	A	104.20.23.154
+example.com.		300	IN	A	172.66.147.243
+example.com.		300	IN	RRSIG	A 13 2 300 20261005182225 20261003162225 34505 example.com. Gc1hKJ3YcHbLIdw5zCeD/KPOfPJ8V3Gl1iuU010HCbWaqH7XEnqAPFGh H5Q+tB3LgiQeBK5F1gaBtqCBOwJ58A==
+;; Received 179 bytes from 108.162.192.162#53(hera.ns.cloudflare.com) in 23 ms
+

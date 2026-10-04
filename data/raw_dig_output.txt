@@ -1,0 +1,3587 @@
+=== google.com A @8.8.8.8 q1 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @8.8.8.8 google.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 47515
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; ANSWER SECTION:
+google.com.		143	IN	A	142.251.221.110
+
+;; Query time: 19 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Sun Oct 04 10:56:52 UTC 2026
+;; MSG SIZE  rcvd: 55
+
+
+=== google.com A @8.8.8.8 q2 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @8.8.8.8 google.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1008
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; ANSWER SECTION:
+google.com.		143	IN	A	142.251.221.110
+
+;; Query time: 19 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Sun Oct 04 10:56:52 UTC 2026
+;; MSG SIZE  rcvd: 55
+
+
+=== google.com A @8.8.8.8 q3 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @8.8.8.8 google.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 6961
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; ANSWER SECTION:
+google.com.		243	IN	A	142.251.43.46
+
+;; Query time: 19 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Sun Oct 04 10:56:52 UTC 2026
+;; MSG SIZE  rcvd: 55
+
+
+=== google.com A @8.8.8.8 q4 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @8.8.8.8 google.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 47688
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; ANSWER SECTION:
+google.com.		259	IN	A	142.251.221.110
+
+;; Query time: 19 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Sun Oct 04 10:56:52 UTC 2026
+;; MSG SIZE  rcvd: 55
+
+
+=== google.com A @8.8.8.8 q5 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @8.8.8.8 google.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 46719
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; ANSWER SECTION:
+google.com.		259	IN	A	142.251.221.110
+
+;; Query time: 19 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Sun Oct 04 10:56:52 UTC 2026
+;; MSG SIZE  rcvd: 55
+
+
+=== google.com A @1.1.1.1 q1 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @1.1.1.1 google.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 27443
+;; flags: qr rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; ANSWER SECTION:
+google.com.		127	IN	A	142.251.106.102
+google.com.		127	IN	A	142.251.106.113
+google.com.		127	IN	A	142.251.106.139
+google.com.		127	IN	A	142.251.106.101
+google.com.		127	IN	A	142.251.106.100
+google.com.		127	IN	A	142.251.106.138
+
+;; Query time: 19 msec
+;; SERVER: 1.1.1.1#53(1.1.1.1) (UDP)
+;; WHEN: Sun Oct 04 10:56:52 UTC 2026
+;; MSG SIZE  rcvd: 135
+
+
+=== google.com A @1.1.1.1 q2 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @1.1.1.1 google.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 30353
+;; flags: qr rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; ANSWER SECTION:
+google.com.		127	IN	A	142.251.106.100
+google.com.		127	IN	A	142.251.106.138
+google.com.		127	IN	A	142.251.106.102
+google.com.		127	IN	A	142.251.106.113
+google.com.		127	IN	A	142.251.106.139
+google.com.		127	IN	A	142.251.106.101
+
+;; Query time: 19 msec
+;; SERVER: 1.1.1.1#53(1.1.1.1) (UDP)
+;; WHEN: Sun Oct 04 10:56:52 UTC 2026
+;; MSG SIZE  rcvd: 135
+
+
+=== google.com A @1.1.1.1 q3 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @1.1.1.1 google.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 64652
+;; flags: qr rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; ANSWER SECTION:
+google.com.		127	IN	A	142.251.106.113
+google.com.		127	IN	A	142.251.106.139
+google.com.		127	IN	A	142.251.106.101
+google.com.		127	IN	A	142.251.106.100
+google.com.		127	IN	A	142.251.106.138
+google.com.		127	IN	A	142.251.106.102
+
+;; Query time: 19 msec
+;; SERVER: 1.1.1.1#53(1.1.1.1) (UDP)
+;; WHEN: Sun Oct 04 10:56:52 UTC 2026
+;; MSG SIZE  rcvd: 135
+
+
+=== google.com A @1.1.1.1 q4 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @1.1.1.1 google.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 6753
+;; flags: qr rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; ANSWER SECTION:
+google.com.		275	IN	A	192.178.174.113
+google.com.		275	IN	A	192.178.174.100
+google.com.		275	IN	A	192.178.174.101
+google.com.		275	IN	A	192.178.174.102
+google.com.		275	IN	A	192.178.174.138
+google.com.		275	IN	A	192.178.174.139
+
+;; Query time: 15 msec
+;; SERVER: 1.1.1.1#53(1.1.1.1) (UDP)
+;; WHEN: Sun Oct 04 10:56:52 UTC 2026
+;; MSG SIZE  rcvd: 135
+
+
+=== google.com A @1.1.1.1 q5 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @1.1.1.1 google.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 33039
+;; flags: qr rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; ANSWER SECTION:
+google.com.		128	IN	A	142.251.106.138
+google.com.		128	IN	A	142.251.106.102
+google.com.		128	IN	A	142.251.106.113
+google.com.		128	IN	A	142.251.106.139
+google.com.		128	IN	A	142.251.106.101
+google.com.		128	IN	A	142.251.106.100
+
+;; Query time: 19 msec
+;; SERVER: 1.1.1.1#53(1.1.1.1) (UDP)
+;; WHEN: Sun Oct 04 10:56:52 UTC 2026
+;; MSG SIZE  rcvd: 135
+
+
+=== google.com A @9.9.9.9 q1 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @9.9.9.9 google.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 15167
+;; flags: qr rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; ANSWER SECTION:
+google.com.		147	IN	A	192.178.211.101
+google.com.		147	IN	A	192.178.211.113
+google.com.		147	IN	A	192.178.211.100
+google.com.		147	IN	A	192.178.211.138
+google.com.		147	IN	A	192.178.211.139
+google.com.		147	IN	A	192.178.211.102
+
+;; Query time: 27 msec
+;; SERVER: 9.9.9.9#53(9.9.9.9) (UDP)
+;; WHEN: Sun Oct 04 10:56:52 UTC 2026
+;; MSG SIZE  rcvd: 135
+
+
+=== google.com A @9.9.9.9 q2 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @9.9.9.9 google.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 6439
+;; flags: qr rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; ANSWER SECTION:
+google.com.		147	IN	A	192.178.211.101
+google.com.		147	IN	A	192.178.211.113
+google.com.		147	IN	A	192.178.211.100
+google.com.		147	IN	A	192.178.211.138
+google.com.		147	IN	A	192.178.211.139
+google.com.		147	IN	A	192.178.211.102
+
+;; Query time: 23 msec
+;; SERVER: 9.9.9.9#53(9.9.9.9) (UDP)
+;; WHEN: Sun Oct 04 10:56:52 UTC 2026
+;; MSG SIZE  rcvd: 135
+
+
+=== google.com A @9.9.9.9 q3 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @9.9.9.9 google.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 9315
+;; flags: qr rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; ANSWER SECTION:
+google.com.		147	IN	A	192.178.211.101
+google.com.		147	IN	A	192.178.211.113
+google.com.		147	IN	A	192.178.211.100
+google.com.		147	IN	A	192.178.211.138
+google.com.		147	IN	A	192.178.211.139
+google.com.		147	IN	A	192.178.211.102
+
+;; Query time: 27 msec
+;; SERVER: 9.9.9.9#53(9.9.9.9) (UDP)
+;; WHEN: Sun Oct 04 10:56:52 UTC 2026
+;; MSG SIZE  rcvd: 135
+
+
+=== google.com A @9.9.9.9 q4 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @9.9.9.9 google.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 41299
+;; flags: qr rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; ANSWER SECTION:
+google.com.		147	IN	A	192.178.211.101
+google.com.		147	IN	A	192.178.211.113
+google.com.		147	IN	A	192.178.211.100
+google.com.		147	IN	A	192.178.211.138
+google.com.		147	IN	A	192.178.211.139
+google.com.		147	IN	A	192.178.211.102
+
+;; Query time: 27 msec
+;; SERVER: 9.9.9.9#53(9.9.9.9) (UDP)
+;; WHEN: Sun Oct 04 10:56:53 UTC 2026
+;; MSG SIZE  rcvd: 135
+
+
+=== google.com A @9.9.9.9 q5 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @9.9.9.9 google.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 11299
+;; flags: qr rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; ANSWER SECTION:
+google.com.		147	IN	A	192.178.211.101
+google.com.		147	IN	A	192.178.211.113
+google.com.		147	IN	A	192.178.211.100
+google.com.		147	IN	A	192.178.211.138
+google.com.		147	IN	A	192.178.211.139
+google.com.		147	IN	A	192.178.211.102
+
+;; Query time: 27 msec
+;; SERVER: 9.9.9.9#53(9.9.9.9) (UDP)
+;; WHEN: Sun Oct 04 10:56:53 UTC 2026
+;; MSG SIZE  rcvd: 135
+
+
+=== youtube.com A @8.8.8.8 q1 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @8.8.8.8 youtube.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 49714
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;youtube.com.			IN	A
+
+;; ANSWER SECTION:
+youtube.com.		300	IN	A	142.250.182.78
+
+;; Query time: 51 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Sun Oct 04 10:56:53 UTC 2026
+;; MSG SIZE  rcvd: 56
+
+
+=== youtube.com A @8.8.8.8 q2 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @8.8.8.8 youtube.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 45436
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;youtube.com.			IN	A
+
+;; ANSWER SECTION:
+youtube.com.		199	IN	A	142.251.222.174
+
+;; Query time: 39 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Sun Oct 04 10:56:53 UTC 2026
+;; MSG SIZE  rcvd: 56
+
+
+=== youtube.com A @8.8.8.8 q3 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @8.8.8.8 youtube.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 13736
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;youtube.com.			IN	A
+
+;; ANSWER SECTION:
+youtube.com.		199	IN	A	142.251.222.174
+
+;; Query time: 51 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Sun Oct 04 10:56:53 UTC 2026
+;; MSG SIZE  rcvd: 56
+
+
+=== youtube.com A @8.8.8.8 q4 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @8.8.8.8 youtube.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 24911
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;youtube.com.			IN	A
+
+;; ANSWER SECTION:
+youtube.com.		242	IN	A	142.251.222.174
+
+;; Query time: 23 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Sun Oct 04 10:56:53 UTC 2026
+;; MSG SIZE  rcvd: 56
+
+
+=== youtube.com A @8.8.8.8 q5 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @8.8.8.8 youtube.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 37853
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;youtube.com.			IN	A
+
+;; ANSWER SECTION:
+youtube.com.		256	IN	A	142.250.77.110
+
+;; Query time: 43 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Sun Oct 04 10:56:53 UTC 2026
+;; MSG SIZE  rcvd: 56
+
+
+=== youtube.com A @1.1.1.1 q1 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @1.1.1.1 youtube.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 39359
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;youtube.com.			IN	A
+
+;; ANSWER SECTION:
+youtube.com.		94	IN	A	142.250.143.136
+youtube.com.		94	IN	A	142.250.143.93
+youtube.com.		94	IN	A	142.250.143.190
+youtube.com.		94	IN	A	142.250.143.91
+
+;; Query time: 15 msec
+;; SERVER: 1.1.1.1#53(1.1.1.1) (UDP)
+;; WHEN: Sun Oct 04 10:56:53 UTC 2026
+;; MSG SIZE  rcvd: 104
+
+
+=== youtube.com A @1.1.1.1 q2 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @1.1.1.1 youtube.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 53252
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;youtube.com.			IN	A
+
+;; ANSWER SECTION:
+youtube.com.		146	IN	A	142.251.220.46
+
+;; Query time: 19 msec
+;; SERVER: 1.1.1.1#53(1.1.1.1) (UDP)
+;; WHEN: Sun Oct 04 10:56:53 UTC 2026
+;; MSG SIZE  rcvd: 56
+
+
+=== youtube.com A @1.1.1.1 q3 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @1.1.1.1 youtube.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 5180
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;youtube.com.			IN	A
+
+;; ANSWER SECTION:
+youtube.com.		93	IN	A	142.250.143.91
+youtube.com.		93	IN	A	142.250.143.136
+youtube.com.		93	IN	A	142.250.143.93
+youtube.com.		93	IN	A	142.250.143.190
+
+;; Query time: 15 msec
+;; SERVER: 1.1.1.1#53(1.1.1.1) (UDP)
+;; WHEN: Sun Oct 04 10:56:53 UTC 2026
+;; MSG SIZE  rcvd: 104
+
+
+=== youtube.com A @1.1.1.1 q4 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @1.1.1.1 youtube.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 16270
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;youtube.com.			IN	A
+
+;; ANSWER SECTION:
+youtube.com.		94	IN	A	142.250.143.190
+youtube.com.		94	IN	A	142.250.143.91
+youtube.com.		94	IN	A	142.250.143.136
+youtube.com.		94	IN	A	142.250.143.93
+
+;; Query time: 19 msec
+;; SERVER: 1.1.1.1#53(1.1.1.1) (UDP)
+;; WHEN: Sun Oct 04 10:56:53 UTC 2026
+;; MSG SIZE  rcvd: 104
+
+
+=== youtube.com A @1.1.1.1 q5 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @1.1.1.1 youtube.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 7251
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;youtube.com.			IN	A
+
+;; ANSWER SECTION:
+youtube.com.		94	IN	A	142.250.143.93
+youtube.com.		94	IN	A	142.250.143.190
+youtube.com.		94	IN	A	142.250.143.91
+youtube.com.		94	IN	A	142.250.143.136
+
+;; Query time: 15 msec
+;; SERVER: 1.1.1.1#53(1.1.1.1) (UDP)
+;; WHEN: Sun Oct 04 10:56:53 UTC 2026
+;; MSG SIZE  rcvd: 104
+
+
+=== youtube.com A @9.9.9.9 q1 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @9.9.9.9 youtube.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 7153
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;youtube.com.			IN	A
+
+;; ANSWER SECTION:
+youtube.com.		250	IN	A	192.178.173.136
+youtube.com.		250	IN	A	192.178.173.93
+youtube.com.		250	IN	A	192.178.173.91
+youtube.com.		250	IN	A	192.178.173.190
+
+;; Query time: 31 msec
+;; SERVER: 9.9.9.9#53(9.9.9.9) (UDP)
+;; WHEN: Sun Oct 04 10:56:53 UTC 2026
+;; MSG SIZE  rcvd: 104
+
+
+=== youtube.com A @9.9.9.9 q2 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @9.9.9.9 youtube.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 56771
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;youtube.com.			IN	A
+
+;; ANSWER SECTION:
+youtube.com.		250	IN	A	192.178.173.136
+youtube.com.		250	IN	A	192.178.173.93
+youtube.com.		250	IN	A	192.178.173.91
+youtube.com.		250	IN	A	192.178.173.190
+
+;; Query time: 27 msec
+;; SERVER: 9.9.9.9#53(9.9.9.9) (UDP)
+;; WHEN: Sun Oct 04 10:56:53 UTC 2026
+;; MSG SIZE  rcvd: 104
+
+
+=== youtube.com A @9.9.9.9 q3 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @9.9.9.9 youtube.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 305
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;youtube.com.			IN	A
+
+;; ANSWER SECTION:
+youtube.com.		250	IN	A	192.178.173.136
+youtube.com.		250	IN	A	192.178.173.93
+youtube.com.		250	IN	A	192.178.173.91
+youtube.com.		250	IN	A	192.178.173.190
+
+;; Query time: 27 msec
+;; SERVER: 9.9.9.9#53(9.9.9.9) (UDP)
+;; WHEN: Sun Oct 04 10:56:53 UTC 2026
+;; MSG SIZE  rcvd: 104
+
+
+=== youtube.com A @9.9.9.9 q4 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @9.9.9.9 youtube.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 10956
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;youtube.com.			IN	A
+
+;; ANSWER SECTION:
+youtube.com.		250	IN	A	192.178.173.136
+youtube.com.		250	IN	A	192.178.173.93
+youtube.com.		250	IN	A	192.178.173.91
+youtube.com.		250	IN	A	192.178.173.190
+
+;; Query time: 35 msec
+;; SERVER: 9.9.9.9#53(9.9.9.9) (UDP)
+;; WHEN: Sun Oct 04 10:56:53 UTC 2026
+;; MSG SIZE  rcvd: 104
+
+
+=== youtube.com A @9.9.9.9 q5 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @9.9.9.9 youtube.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 38310
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;youtube.com.			IN	A
+
+;; ANSWER SECTION:
+youtube.com.		250	IN	A	192.178.173.136
+youtube.com.		250	IN	A	192.178.173.93
+youtube.com.		250	IN	A	192.178.173.91
+youtube.com.		250	IN	A	192.178.173.190
+
+;; Query time: 31 msec
+;; SERVER: 9.9.9.9#53(9.9.9.9) (UDP)
+;; WHEN: Sun Oct 04 10:56:53 UTC 2026
+;; MSG SIZE  rcvd: 104
+
+
+=== github.com A @8.8.8.8 q1 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @8.8.8.8 github.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 17947
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;github.com.			IN	A
+
+;; ANSWER SECTION:
+github.com.		60	IN	A	20.207.73.82
+
+;; Query time: 67 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Sun Oct 04 10:56:53 UTC 2026
+;; MSG SIZE  rcvd: 55
+
+
+=== github.com A @8.8.8.8 q2 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @8.8.8.8 github.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 413
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;github.com.			IN	A
+
+;; ANSWER SECTION:
+github.com.		60	IN	A	20.207.73.82
+
+;; Query time: 43 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Sun Oct 04 10:56:53 UTC 2026
+;; MSG SIZE  rcvd: 55
+
+
+=== github.com A @8.8.8.8 q3 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @8.8.8.8 github.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 53635
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;github.com.			IN	A
+
+;; ANSWER SECTION:
+github.com.		43	IN	A	20.207.73.82
+
+;; Query time: 19 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Sun Oct 04 10:56:53 UTC 2026
+;; MSG SIZE  rcvd: 55
+
+
+=== github.com A @8.8.8.8 q4 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @8.8.8.8 github.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 55212
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;github.com.			IN	A
+
+;; ANSWER SECTION:
+github.com.		2	IN	A	20.207.73.82
+
+;; Query time: 43 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Sun Oct 04 10:56:53 UTC 2026
+;; MSG SIZE  rcvd: 55
+
+
+=== github.com A @8.8.8.8 q5 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @8.8.8.8 github.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 21727
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;github.com.			IN	A
+
+;; ANSWER SECTION:
+github.com.		60	IN	A	20.207.73.82
+
+;; Query time: 43 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Sun Oct 04 10:56:54 UTC 2026
+;; MSG SIZE  rcvd: 55
+
+
+=== github.com A @1.1.1.1 q1 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @1.1.1.1 github.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 42238
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;github.com.			IN	A
+
+;; ANSWER SECTION:
+github.com.		47	IN	A	20.207.73.82
+
+;; Query time: 19 msec
+;; SERVER: 1.1.1.1#53(1.1.1.1) (UDP)
+;; WHEN: Sun Oct 04 10:56:54 UTC 2026
+;; MSG SIZE  rcvd: 55
+
+
+=== github.com A @1.1.1.1 q2 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @1.1.1.1 github.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 16505
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;github.com.			IN	A
+
+;; ANSWER SECTION:
+github.com.		17	IN	A	20.207.73.82
+
+;; Query time: 15 msec
+;; SERVER: 1.1.1.1#53(1.1.1.1) (UDP)
+;; WHEN: Sun Oct 04 10:56:54 UTC 2026
+;; MSG SIZE  rcvd: 55
+
+
+=== github.com A @1.1.1.1 q3 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @1.1.1.1 github.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 63213
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;github.com.			IN	A
+
+;; ANSWER SECTION:
+github.com.		47	IN	A	20.207.73.82
+
+;; Query time: 15 msec
+;; SERVER: 1.1.1.1#53(1.1.1.1) (UDP)
+;; WHEN: Sun Oct 04 10:56:54 UTC 2026
+;; MSG SIZE  rcvd: 55
+
+
+=== github.com A @1.1.1.1 q4 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @1.1.1.1 github.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 55562
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;github.com.			IN	A
+
+;; ANSWER SECTION:
+github.com.		46	IN	A	20.207.73.82
+
+;; Query time: 19 msec
+;; SERVER: 1.1.1.1#53(1.1.1.1) (UDP)
+;; WHEN: Sun Oct 04 10:56:54 UTC 2026
+;; MSG SIZE  rcvd: 55
+
+
+=== github.com A @1.1.1.1 q5 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @1.1.1.1 github.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 10328
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;github.com.			IN	A
+
+;; ANSWER SECTION:
+github.com.		47	IN	A	20.207.73.82
+
+;; Query time: 19 msec
+;; SERVER: 1.1.1.1#53(1.1.1.1) (UDP)
+;; WHEN: Sun Oct 04 10:56:54 UTC 2026
+;; MSG SIZE  rcvd: 55
+
+
+=== github.com A @9.9.9.9 q1 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @9.9.9.9 github.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 63991
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;github.com.			IN	A
+
+;; ANSWER SECTION:
+github.com.		7	IN	A	20.207.73.82
+
+;; Query time: 31 msec
+;; SERVER: 9.9.9.9#53(9.9.9.9) (UDP)
+;; WHEN: Sun Oct 04 10:56:54 UTC 2026
+;; MSG SIZE  rcvd: 55
+
+
+=== github.com A @9.9.9.9 q2 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @9.9.9.9 github.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 55602
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;github.com.			IN	A
+
+;; ANSWER SECTION:
+github.com.		7	IN	A	20.207.73.82
+
+;; Query time: 27 msec
+;; SERVER: 9.9.9.9#53(9.9.9.9) (UDP)
+;; WHEN: Sun Oct 04 10:56:54 UTC 2026
+;; MSG SIZE  rcvd: 55
+
+
+=== github.com A @9.9.9.9 q3 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @9.9.9.9 github.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 41817
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;github.com.			IN	A
+
+;; ANSWER SECTION:
+github.com.		7	IN	A	20.207.73.82
+
+;; Query time: 31 msec
+;; SERVER: 9.9.9.9#53(9.9.9.9) (UDP)
+;; WHEN: Sun Oct 04 10:56:54 UTC 2026
+;; MSG SIZE  rcvd: 55
+
+
+=== github.com A @9.9.9.9 q4 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @9.9.9.9 github.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 19468
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;github.com.			IN	A
+
+;; ANSWER SECTION:
+github.com.		7	IN	A	20.207.73.82
+
+;; Query time: 27 msec
+;; SERVER: 9.9.9.9#53(9.9.9.9) (UDP)
+;; WHEN: Sun Oct 04 10:56:54 UTC 2026
+;; MSG SIZE  rcvd: 55
+
+
+=== github.com A @9.9.9.9 q5 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @9.9.9.9 github.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 5933
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;github.com.			IN	A
+
+;; ANSWER SECTION:
+github.com.		7	IN	A	20.207.73.82
+
+;; Query time: 27 msec
+;; SERVER: 9.9.9.9#53(9.9.9.9) (UDP)
+;; WHEN: Sun Oct 04 10:56:54 UTC 2026
+;; MSG SIZE  rcvd: 55
+
+
+=== amazon.com A @8.8.8.8 q1 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @8.8.8.8 amazon.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 10323
+;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;amazon.com.			IN	A
+
+;; ANSWER SECTION:
+amazon.com.		121	IN	A	98.87.170.71
+amazon.com.		121	IN	A	98.82.161.185
+amazon.com.		121	IN	A	98.87.170.74
+
+;; Query time: 23 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Sun Oct 04 10:56:54 UTC 2026
+;; MSG SIZE  rcvd: 87
+
+
+=== amazon.com A @8.8.8.8 q2 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @8.8.8.8 amazon.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 10512
+;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;amazon.com.			IN	A
+
+;; ANSWER SECTION:
+amazon.com.		145	IN	A	98.82.161.185
+amazon.com.		145	IN	A	98.87.170.74
+amazon.com.		145	IN	A	98.87.170.71
+
+;; Query time: 19 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Sun Oct 04 10:56:54 UTC 2026
+;; MSG SIZE  rcvd: 87
+
+
+=== amazon.com A @8.8.8.8 q3 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @8.8.8.8 amazon.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 63446
+;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;amazon.com.			IN	A
+
+;; ANSWER SECTION:
+amazon.com.		268	IN	A	98.82.161.185
+amazon.com.		268	IN	A	98.87.170.74
+amazon.com.		268	IN	A	98.87.170.71
+
+;; Query time: 23 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Sun Oct 04 10:56:54 UTC 2026
+;; MSG SIZE  rcvd: 87
+
+
+=== amazon.com A @8.8.8.8 q4 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @8.8.8.8 amazon.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 19547
+;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;amazon.com.			IN	A
+
+;; ANSWER SECTION:
+amazon.com.		121	IN	A	98.87.170.71
+amazon.com.		121	IN	A	98.87.170.74
+amazon.com.		121	IN	A	98.82.161.185
+
+;; Query time: 19 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Sun Oct 04 10:56:54 UTC 2026
+;; MSG SIZE  rcvd: 87
+
+
+=== amazon.com A @8.8.8.8 q5 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @8.8.8.8 amazon.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 12555
+;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;amazon.com.			IN	A
+
+;; ANSWER SECTION:
+amazon.com.		145	IN	A	98.87.170.71
+amazon.com.		145	IN	A	98.87.170.74
+amazon.com.		145	IN	A	98.82.161.185
+
+;; Query time: 19 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Sun Oct 04 10:56:54 UTC 2026
+;; MSG SIZE  rcvd: 87
+
+
+=== amazon.com A @1.1.1.1 q1 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @1.1.1.1 amazon.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 17796
+;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;amazon.com.			IN	A
+
+;; ANSWER SECTION:
+amazon.com.		462	IN	A	98.82.161.185
+amazon.com.		462	IN	A	98.87.170.74
+amazon.com.		462	IN	A	98.87.170.71
+
+;; Query time: 15 msec
+;; SERVER: 1.1.1.1#53(1.1.1.1) (UDP)
+;; WHEN: Sun Oct 04 10:56:54 UTC 2026
+;; MSG SIZE  rcvd: 87
+
+
+=== amazon.com A @1.1.1.1 q2 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @1.1.1.1 amazon.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 41710
+;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;amazon.com.			IN	A
+
+;; ANSWER SECTION:
+amazon.com.		462	IN	A	98.87.170.71
+amazon.com.		462	IN	A	98.82.161.185
+amazon.com.		462	IN	A	98.87.170.74
+
+;; Query time: 15 msec
+;; SERVER: 1.1.1.1#53(1.1.1.1) (UDP)
+;; WHEN: Sun Oct 04 10:56:54 UTC 2026
+;; MSG SIZE  rcvd: 87
+
+
+=== amazon.com A @1.1.1.1 q3 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @1.1.1.1 amazon.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 54299
+;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;amazon.com.			IN	A
+
+;; ANSWER SECTION:
+amazon.com.		462	IN	A	98.82.161.185
+amazon.com.		462	IN	A	98.87.170.74
+amazon.com.		462	IN	A	98.87.170.71
+
+;; Query time: 27 msec
+;; SERVER: 1.1.1.1#53(1.1.1.1) (UDP)
+;; WHEN: Sun Oct 04 10:56:54 UTC 2026
+;; MSG SIZE  rcvd: 87
+
+
+=== amazon.com A @1.1.1.1 q4 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @1.1.1.1 amazon.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 21783
+;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;amazon.com.			IN	A
+
+;; ANSWER SECTION:
+amazon.com.		461	IN	A	98.82.161.185
+amazon.com.		461	IN	A	98.87.170.74
+amazon.com.		461	IN	A	98.87.170.71
+
+;; Query time: 19 msec
+;; SERVER: 1.1.1.1#53(1.1.1.1) (UDP)
+;; WHEN: Sun Oct 04 10:56:54 UTC 2026
+;; MSG SIZE  rcvd: 87
+
+
+=== amazon.com A @1.1.1.1 q5 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @1.1.1.1 amazon.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 5335
+;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;amazon.com.			IN	A
+
+;; ANSWER SECTION:
+amazon.com.		611	IN	A	98.87.170.74
+amazon.com.		611	IN	A	98.87.170.71
+amazon.com.		611	IN	A	98.82.161.185
+
+;; Query time: 19 msec
+;; SERVER: 1.1.1.1#53(1.1.1.1) (UDP)
+;; WHEN: Sun Oct 04 10:56:54 UTC 2026
+;; MSG SIZE  rcvd: 87
+
+
+=== amazon.com A @9.9.9.9 q1 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @9.9.9.9 amazon.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 27595
+;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;amazon.com.			IN	A
+
+;; ANSWER SECTION:
+amazon.com.		729	IN	A	98.87.170.74
+amazon.com.		729	IN	A	98.82.161.185
+amazon.com.		729	IN	A	98.87.170.71
+
+;; Query time: 31 msec
+;; SERVER: 9.9.9.9#53(9.9.9.9) (UDP)
+;; WHEN: Sun Oct 04 10:56:54 UTC 2026
+;; MSG SIZE  rcvd: 87
+
+
+=== amazon.com A @9.9.9.9 q2 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @9.9.9.9 amazon.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 38105
+;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;amazon.com.			IN	A
+
+;; ANSWER SECTION:
+amazon.com.		729	IN	A	98.87.170.74
+amazon.com.		729	IN	A	98.82.161.185
+amazon.com.		729	IN	A	98.87.170.71
+
+;; Query time: 27 msec
+;; SERVER: 9.9.9.9#53(9.9.9.9) (UDP)
+;; WHEN: Sun Oct 04 10:56:54 UTC 2026
+;; MSG SIZE  rcvd: 87
+
+
+=== amazon.com A @9.9.9.9 q3 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @9.9.9.9 amazon.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 26096
+;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;amazon.com.			IN	A
+
+;; ANSWER SECTION:
+amazon.com.		729	IN	A	98.87.170.74
+amazon.com.		729	IN	A	98.82.161.185
+amazon.com.		729	IN	A	98.87.170.71
+
+;; Query time: 27 msec
+;; SERVER: 9.9.9.9#53(9.9.9.9) (UDP)
+;; WHEN: Sun Oct 04 10:56:54 UTC 2026
+;; MSG SIZE  rcvd: 87
+
+
+=== amazon.com A @9.9.9.9 q4 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @9.9.9.9 amazon.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 21585
+;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;amazon.com.			IN	A
+
+;; ANSWER SECTION:
+amazon.com.		729	IN	A	98.87.170.74
+amazon.com.		729	IN	A	98.82.161.185
+amazon.com.		729	IN	A	98.87.170.71
+
+;; Query time: 31 msec
+;; SERVER: 9.9.9.9#53(9.9.9.9) (UDP)
+;; WHEN: Sun Oct 04 10:56:55 UTC 2026
+;; MSG SIZE  rcvd: 87
+
+
+=== amazon.com A @9.9.9.9 q5 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @9.9.9.9 amazon.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 35642
+;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;amazon.com.			IN	A
+
+;; ANSWER SECTION:
+amazon.com.		729	IN	A	98.87.170.74
+amazon.com.		729	IN	A	98.82.161.185
+amazon.com.		729	IN	A	98.87.170.71
+
+;; Query time: 27 msec
+;; SERVER: 9.9.9.9#53(9.9.9.9) (UDP)
+;; WHEN: Sun Oct 04 10:56:55 UTC 2026
+;; MSG SIZE  rcvd: 87
+
+
+=== microsoft.com A @8.8.8.8 q1 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @8.8.8.8 microsoft.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 52875
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;microsoft.com.			IN	A
+
+;; ANSWER SECTION:
+microsoft.com.		2255	IN	A	150.171.109.132
+
+;; Query time: 19 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Sun Oct 04 10:56:55 UTC 2026
+;; MSG SIZE  rcvd: 58
+
+
+=== microsoft.com A @8.8.8.8 q2 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @8.8.8.8 microsoft.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 37734
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;microsoft.com.			IN	A
+
+;; ANSWER SECTION:
+microsoft.com.		1888	IN	A	150.171.109.131
+
+;; Query time: 23 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Sun Oct 04 10:56:55 UTC 2026
+;; MSG SIZE  rcvd: 58
+
+
+=== microsoft.com A @8.8.8.8 q3 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @8.8.8.8 microsoft.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 3762
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;microsoft.com.			IN	A
+
+;; ANSWER SECTION:
+microsoft.com.		1887	IN	A	150.171.109.131
+
+;; Query time: 19 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Sun Oct 04 10:56:55 UTC 2026
+;; MSG SIZE  rcvd: 58
+
+
+=== microsoft.com A @8.8.8.8 q4 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @8.8.8.8 microsoft.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 40918
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;microsoft.com.			IN	A
+
+;; ANSWER SECTION:
+microsoft.com.		3419	IN	A	150.171.109.132
+
+;; Query time: 39 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Sun Oct 04 10:56:55 UTC 2026
+;; MSG SIZE  rcvd: 58
+
+
+=== microsoft.com A @8.8.8.8 q5 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @8.8.8.8 microsoft.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 11786
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;microsoft.com.			IN	A
+
+;; ANSWER SECTION:
+microsoft.com.		1739	IN	A	150.171.109.131
+
+;; Query time: 19 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Sun Oct 04 10:56:55 UTC 2026
+;; MSG SIZE  rcvd: 58
+
+
+=== microsoft.com A @1.1.1.1 q1 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @1.1.1.1 microsoft.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 42666
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;microsoft.com.			IN	A
+
+;; ANSWER SECTION:
+microsoft.com.		970	IN	A	150.171.110.88
+
+;; Query time: 23 msec
+;; SERVER: 1.1.1.1#53(1.1.1.1) (UDP)
+;; WHEN: Sun Oct 04 10:56:55 UTC 2026
+;; MSG SIZE  rcvd: 58
+
+
+=== microsoft.com A @1.1.1.1 q2 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @1.1.1.1 microsoft.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 5508
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;microsoft.com.			IN	A
+
+;; ANSWER SECTION:
+microsoft.com.		970	IN	A	150.171.110.88
+
+;; Query time: 19 msec
+;; SERVER: 1.1.1.1#53(1.1.1.1) (UDP)
+;; WHEN: Sun Oct 04 10:56:55 UTC 2026
+;; MSG SIZE  rcvd: 58
+
+
+=== microsoft.com A @1.1.1.1 q3 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @1.1.1.1 microsoft.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 19129
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;microsoft.com.			IN	A
+
+;; ANSWER SECTION:
+microsoft.com.		971	IN	A	150.171.110.88
+
+;; Query time: 15 msec
+;; SERVER: 1.1.1.1#53(1.1.1.1) (UDP)
+;; WHEN: Sun Oct 04 10:56:55 UTC 2026
+;; MSG SIZE  rcvd: 58
+
+
+=== microsoft.com A @1.1.1.1 q4 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @1.1.1.1 microsoft.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 17660
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;microsoft.com.			IN	A
+
+;; ANSWER SECTION:
+microsoft.com.		970	IN	A	150.171.110.88
+
+;; Query time: 23 msec
+;; SERVER: 1.1.1.1#53(1.1.1.1) (UDP)
+;; WHEN: Sun Oct 04 10:56:55 UTC 2026
+;; MSG SIZE  rcvd: 58
+
+
+=== microsoft.com A @1.1.1.1 q5 rc=9 ===
+;; communications error to 1.1.1.1#53: timed out
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @1.1.1.1 microsoft.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; no servers could be reached
+
+=== microsoft.com A @9.9.9.9 q1 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @9.9.9.9 microsoft.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 45339
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;microsoft.com.			IN	A
+
+;; ANSWER SECTION:
+microsoft.com.		525	IN	A	150.171.109.131
+
+;; Query time: 27 msec
+;; SERVER: 9.9.9.9#53(9.9.9.9) (UDP)
+;; WHEN: Sun Oct 04 10:56:58 UTC 2026
+;; MSG SIZE  rcvd: 58
+
+
+=== microsoft.com A @9.9.9.9 q2 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @9.9.9.9 microsoft.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 10661
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;microsoft.com.			IN	A
+
+;; ANSWER SECTION:
+microsoft.com.		525	IN	A	150.171.109.131
+
+;; Query time: 27 msec
+;; SERVER: 9.9.9.9#53(9.9.9.9) (UDP)
+;; WHEN: Sun Oct 04 10:56:58 UTC 2026
+;; MSG SIZE  rcvd: 58
+
+
+=== microsoft.com A @9.9.9.9 q3 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @9.9.9.9 microsoft.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 6385
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;microsoft.com.			IN	A
+
+;; ANSWER SECTION:
+microsoft.com.		525	IN	A	150.171.109.131
+
+;; Query time: 35 msec
+;; SERVER: 9.9.9.9#53(9.9.9.9) (UDP)
+;; WHEN: Sun Oct 04 10:56:58 UTC 2026
+;; MSG SIZE  rcvd: 58
+
+
+=== microsoft.com A @9.9.9.9 q4 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @9.9.9.9 microsoft.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 21759
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;microsoft.com.			IN	A
+
+;; ANSWER SECTION:
+microsoft.com.		525	IN	A	150.171.109.131
+
+;; Query time: 23 msec
+;; SERVER: 9.9.9.9#53(9.9.9.9) (UDP)
+;; WHEN: Sun Oct 04 10:56:58 UTC 2026
+;; MSG SIZE  rcvd: 58
+
+
+=== microsoft.com A @9.9.9.9 q5 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @9.9.9.9 microsoft.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 64524
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;microsoft.com.			IN	A
+
+;; ANSWER SECTION:
+microsoft.com.		525	IN	A	150.171.109.131
+
+;; Query time: 27 msec
+;; SERVER: 9.9.9.9#53(9.9.9.9) (UDP)
+;; WHEN: Sun Oct 04 10:56:58 UTC 2026
+;; MSG SIZE  rcvd: 58
+
+
+=== apple.com A @8.8.8.8 q1 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @8.8.8.8 apple.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 38453
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;apple.com.			IN	A
+
+;; ANSWER SECTION:
+apple.com.		269	IN	A	17.253.144.10
+
+;; Query time: 19 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Sun Oct 04 10:56:58 UTC 2026
+;; MSG SIZE  rcvd: 54
+
+
+=== apple.com A @8.8.8.8 q2 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @8.8.8.8 apple.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 37776
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;apple.com.			IN	A
+
+;; ANSWER SECTION:
+apple.com.		269	IN	A	17.253.144.10
+
+;; Query time: 19 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Sun Oct 04 10:56:58 UTC 2026
+;; MSG SIZE  rcvd: 54
+
+
+=== apple.com A @8.8.8.8 q3 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @8.8.8.8 apple.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 5086
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;apple.com.			IN	A
+
+;; ANSWER SECTION:
+apple.com.		269	IN	A	17.253.144.10
+
+;; Query time: 23 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Sun Oct 04 10:56:58 UTC 2026
+;; MSG SIZE  rcvd: 54
+
+
+=== apple.com A @8.8.8.8 q4 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @8.8.8.8 apple.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 43398
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;apple.com.			IN	A
+
+;; ANSWER SECTION:
+apple.com.		269	IN	A	17.253.144.10
+
+;; Query time: 23 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Sun Oct 04 10:56:58 UTC 2026
+;; MSG SIZE  rcvd: 54
+
+
+=== apple.com A @8.8.8.8 q5 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @8.8.8.8 apple.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 46313
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;apple.com.			IN	A
+
+;; ANSWER SECTION:
+apple.com.		269	IN	A	17.253.144.10
+
+;; Query time: 23 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Sun Oct 04 10:56:58 UTC 2026
+;; MSG SIZE  rcvd: 54
+
+
+=== apple.com A @1.1.1.1 q1 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @1.1.1.1 apple.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 39914
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;apple.com.			IN	A
+
+;; ANSWER SECTION:
+apple.com.		156	IN	A	17.253.144.10
+
+;; Query time: 19 msec
+;; SERVER: 1.1.1.1#53(1.1.1.1) (UDP)
+;; WHEN: Sun Oct 04 10:56:58 UTC 2026
+;; MSG SIZE  rcvd: 54
+
+
+=== apple.com A @1.1.1.1 q2 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @1.1.1.1 apple.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 21701
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;apple.com.			IN	A
+
+;; ANSWER SECTION:
+apple.com.		157	IN	A	17.253.144.10
+
+;; Query time: 15 msec
+;; SERVER: 1.1.1.1#53(1.1.1.1) (UDP)
+;; WHEN: Sun Oct 04 10:56:58 UTC 2026
+;; MSG SIZE  rcvd: 54
+
+
+=== apple.com A @1.1.1.1 q3 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @1.1.1.1 apple.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1200
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;apple.com.			IN	A
+
+;; ANSWER SECTION:
+apple.com.		156	IN	A	17.253.144.10
+
+;; Query time: 15 msec
+;; SERVER: 1.1.1.1#53(1.1.1.1) (UDP)
+;; WHEN: Sun Oct 04 10:56:58 UTC 2026
+;; MSG SIZE  rcvd: 54
+
+
+=== apple.com A @1.1.1.1 q4 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @1.1.1.1 apple.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 44305
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;apple.com.			IN	A
+
+;; ANSWER SECTION:
+apple.com.		157	IN	A	17.253.144.10
+
+;; Query time: 19 msec
+;; SERVER: 1.1.1.1#53(1.1.1.1) (UDP)
+;; WHEN: Sun Oct 04 10:56:59 UTC 2026
+;; MSG SIZE  rcvd: 54
+
+
+=== apple.com A @1.1.1.1 q5 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @1.1.1.1 apple.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 11505
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;apple.com.			IN	A
+
+;; ANSWER SECTION:
+apple.com.		157	IN	A	17.253.144.10
+
+;; Query time: 19 msec
+;; SERVER: 1.1.1.1#53(1.1.1.1) (UDP)
+;; WHEN: Sun Oct 04 10:56:59 UTC 2026
+;; MSG SIZE  rcvd: 54
+
+
+=== apple.com A @9.9.9.9 q1 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @9.9.9.9 apple.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 55028
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;apple.com.			IN	A
+
+;; ANSWER SECTION:
+apple.com.		218	IN	A	17.253.144.10
+
+;; Query time: 351 msec
+;; SERVER: 9.9.9.9#53(9.9.9.9) (UDP)
+;; WHEN: Sun Oct 04 10:56:59 UTC 2026
+;; MSG SIZE  rcvd: 54
+
+
+=== apple.com A @9.9.9.9 q2 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @9.9.9.9 apple.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 2451
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;apple.com.			IN	A
+
+;; ANSWER SECTION:
+apple.com.		218	IN	A	17.253.144.10
+
+;; Query time: 27 msec
+;; SERVER: 9.9.9.9#53(9.9.9.9) (UDP)
+;; WHEN: Sun Oct 04 10:56:59 UTC 2026
+;; MSG SIZE  rcvd: 54
+
+
+=== apple.com A @9.9.9.9 q3 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @9.9.9.9 apple.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 40508
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;apple.com.			IN	A
+
+;; ANSWER SECTION:
+apple.com.		218	IN	A	17.253.144.10
+
+;; Query time: 27 msec
+;; SERVER: 9.9.9.9#53(9.9.9.9) (UDP)
+;; WHEN: Sun Oct 04 10:56:59 UTC 2026
+;; MSG SIZE  rcvd: 54
+
+
+=== apple.com A @9.9.9.9 q4 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @9.9.9.9 apple.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 49830
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;apple.com.			IN	A
+
+;; ANSWER SECTION:
+apple.com.		218	IN	A	17.253.144.10
+
+;; Query time: 31 msec
+;; SERVER: 9.9.9.9#53(9.9.9.9) (UDP)
+;; WHEN: Sun Oct 04 10:56:59 UTC 2026
+;; MSG SIZE  rcvd: 54
+
+
+=== apple.com A @9.9.9.9 q5 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @9.9.9.9 apple.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 46451
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;apple.com.			IN	A
+
+;; ANSWER SECTION:
+apple.com.		218	IN	A	17.253.144.10
+
+;; Query time: 27 msec
+;; SERVER: 9.9.9.9#53(9.9.9.9) (UDP)
+;; WHEN: Sun Oct 04 10:56:59 UTC 2026
+;; MSG SIZE  rcvd: 54
+
+
+=== wikipedia.org A @8.8.8.8 q1 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @8.8.8.8 wikipedia.org A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 60063
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;wikipedia.org.			IN	A
+
+;; ANSWER SECTION:
+wikipedia.org.		166	IN	A	103.102.166.224
+
+;; Query time: 19 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Sun Oct 04 10:56:59 UTC 2026
+;; MSG SIZE  rcvd: 58
+
+
+=== wikipedia.org A @8.8.8.8 q2 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @8.8.8.8 wikipedia.org A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 3404
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;wikipedia.org.			IN	A
+
+;; ANSWER SECTION:
+wikipedia.org.		166	IN	A	103.102.166.224
+
+;; Query time: 23 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Sun Oct 04 10:56:59 UTC 2026
+;; MSG SIZE  rcvd: 58
+
+
+=== wikipedia.org A @8.8.8.8 q3 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @8.8.8.8 wikipedia.org A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 51443
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;wikipedia.org.			IN	A
+
+;; ANSWER SECTION:
+wikipedia.org.		5	IN	A	103.102.166.224
+
+;; Query time: 19 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Sun Oct 04 10:56:59 UTC 2026
+;; MSG SIZE  rcvd: 58
+
+
+=== wikipedia.org A @8.8.8.8 q4 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @8.8.8.8 wikipedia.org A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1276
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;wikipedia.org.			IN	A
+
+;; ANSWER SECTION:
+wikipedia.org.		166	IN	A	103.102.166.224
+
+;; Query time: 23 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Sun Oct 04 10:56:59 UTC 2026
+;; MSG SIZE  rcvd: 58
+
+
+=== wikipedia.org A @8.8.8.8 q5 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @8.8.8.8 wikipedia.org A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 11918
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;wikipedia.org.			IN	A
+
+;; ANSWER SECTION:
+wikipedia.org.		160	IN	A	103.102.166.224
+
+;; Query time: 23 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Sun Oct 04 10:56:59 UTC 2026
+;; MSG SIZE  rcvd: 58
+
+
+=== wikipedia.org A @1.1.1.1 q1 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @1.1.1.1 wikipedia.org A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 54567
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;wikipedia.org.			IN	A
+
+;; ANSWER SECTION:
+wikipedia.org.		67	IN	A	103.102.166.224
+
+;; Query time: 15 msec
+;; SERVER: 1.1.1.1#53(1.1.1.1) (UDP)
+;; WHEN: Sun Oct 04 10:56:59 UTC 2026
+;; MSG SIZE  rcvd: 58
+
+
+=== wikipedia.org A @1.1.1.1 q2 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @1.1.1.1 wikipedia.org A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 15460
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;wikipedia.org.			IN	A
+
+;; ANSWER SECTION:
+wikipedia.org.		66	IN	A	103.102.166.224
+
+;; Query time: 15 msec
+;; SERVER: 1.1.1.1#53(1.1.1.1) (UDP)
+;; WHEN: Sun Oct 04 10:56:59 UTC 2026
+;; MSG SIZE  rcvd: 58
+
+
+=== wikipedia.org A @1.1.1.1 q3 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @1.1.1.1 wikipedia.org A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 3445
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;wikipedia.org.			IN	A
+
+;; ANSWER SECTION:
+wikipedia.org.		84	IN	A	103.102.166.224
+
+;; Query time: 15 msec
+;; SERVER: 1.1.1.1#53(1.1.1.1) (UDP)
+;; WHEN: Sun Oct 04 10:56:59 UTC 2026
+;; MSG SIZE  rcvd: 58
+
+
+=== wikipedia.org A @1.1.1.1 q4 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @1.1.1.1 wikipedia.org A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 18759
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;wikipedia.org.			IN	A
+
+;; ANSWER SECTION:
+wikipedia.org.		66	IN	A	103.102.166.224
+
+;; Query time: 15 msec
+;; SERVER: 1.1.1.1#53(1.1.1.1) (UDP)
+;; WHEN: Sun Oct 04 10:56:59 UTC 2026
+;; MSG SIZE  rcvd: 58
+
+
+=== wikipedia.org A @1.1.1.1 q5 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @1.1.1.1 wikipedia.org A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 41248
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;wikipedia.org.			IN	A
+
+;; ANSWER SECTION:
+wikipedia.org.		66	IN	A	103.102.166.224
+
+;; Query time: 19 msec
+;; SERVER: 1.1.1.1#53(1.1.1.1) (UDP)
+;; WHEN: Sun Oct 04 10:56:59 UTC 2026
+;; MSG SIZE  rcvd: 58
+
+
+=== wikipedia.org A @9.9.9.9 q1 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @9.9.9.9 wikipedia.org A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 41988
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;wikipedia.org.			IN	A
+
+;; ANSWER SECTION:
+wikipedia.org.		58	IN	A	103.102.166.224
+
+;; Query time: 115 msec
+;; SERVER: 9.9.9.9#53(9.9.9.9) (UDP)
+;; WHEN: Sun Oct 04 10:57:00 UTC 2026
+;; MSG SIZE  rcvd: 58
+
+
+=== wikipedia.org A @9.9.9.9 q2 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @9.9.9.9 wikipedia.org A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 17479
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;wikipedia.org.			IN	A
+
+;; ANSWER SECTION:
+wikipedia.org.		58	IN	A	103.102.166.224
+
+;; Query time: 27 msec
+;; SERVER: 9.9.9.9#53(9.9.9.9) (UDP)
+;; WHEN: Sun Oct 04 10:57:00 UTC 2026
+;; MSG SIZE  rcvd: 58
+
+
+=== wikipedia.org A @9.9.9.9 q3 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @9.9.9.9 wikipedia.org A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 29212
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;wikipedia.org.			IN	A
+
+;; ANSWER SECTION:
+wikipedia.org.		57	IN	A	103.102.166.224
+
+;; Query time: 27 msec
+;; SERVER: 9.9.9.9#53(9.9.9.9) (UDP)
+;; WHEN: Sun Oct 04 10:57:00 UTC 2026
+;; MSG SIZE  rcvd: 58
+
+
+=== wikipedia.org A @9.9.9.9 q4 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @9.9.9.9 wikipedia.org A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 44112
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;wikipedia.org.			IN	A
+
+;; ANSWER SECTION:
+wikipedia.org.		57	IN	A	103.102.166.224
+
+;; Query time: 31 msec
+;; SERVER: 9.9.9.9#53(9.9.9.9) (UDP)
+;; WHEN: Sun Oct 04 10:57:00 UTC 2026
+;; MSG SIZE  rcvd: 58
+
+
+=== wikipedia.org A @9.9.9.9 q5 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @9.9.9.9 wikipedia.org A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 20663
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;wikipedia.org.			IN	A
+
+;; ANSWER SECTION:
+wikipedia.org.		57	IN	A	103.102.166.224
+
+;; Query time: 27 msec
+;; SERVER: 9.9.9.9#53(9.9.9.9) (UDP)
+;; WHEN: Sun Oct 04 10:57:00 UTC 2026
+;; MSG SIZE  rcvd: 58
+
+
+=== reddit.com A @8.8.8.8 q1 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @8.8.8.8 reddit.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 44201
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;reddit.com.			IN	A
+
+;; ANSWER SECTION:
+reddit.com.		254	IN	A	151.101.1.140
+reddit.com.		254	IN	A	151.101.193.140
+reddit.com.		254	IN	A	151.101.65.140
+reddit.com.		254	IN	A	151.101.129.140
+
+;; Query time: 19 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Sun Oct 04 10:57:00 UTC 2026
+;; MSG SIZE  rcvd: 103
+
+
+=== reddit.com A @8.8.8.8 q2 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @8.8.8.8 reddit.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 44264
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;reddit.com.			IN	A
+
+;; ANSWER SECTION:
+reddit.com.		254	IN	A	151.101.193.140
+reddit.com.		254	IN	A	151.101.65.140
+reddit.com.		254	IN	A	151.101.1.140
+reddit.com.		254	IN	A	151.101.129.140
+
+;; Query time: 19 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Sun Oct 04 10:57:00 UTC 2026
+;; MSG SIZE  rcvd: 103
+
+
+=== reddit.com A @8.8.8.8 q3 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @8.8.8.8 reddit.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 8522
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;reddit.com.			IN	A
+
+;; ANSWER SECTION:
+reddit.com.		254	IN	A	151.101.193.140
+reddit.com.		254	IN	A	151.101.129.140
+reddit.com.		254	IN	A	151.101.65.140
+reddit.com.		254	IN	A	151.101.1.140
+
+;; Query time: 19 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Sun Oct 04 10:57:00 UTC 2026
+;; MSG SIZE  rcvd: 103
+
+
+=== reddit.com A @8.8.8.8 q4 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @8.8.8.8 reddit.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 47094
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;reddit.com.			IN	A
+
+;; ANSWER SECTION:
+reddit.com.		294	IN	A	151.101.129.140
+reddit.com.		294	IN	A	151.101.65.140
+reddit.com.		294	IN	A	151.101.1.140
+reddit.com.		294	IN	A	151.101.193.140
+
+;; Query time: 15 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Sun Oct 04 10:57:00 UTC 2026
+;; MSG SIZE  rcvd: 103
+
+
+=== reddit.com A @8.8.8.8 q5 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @8.8.8.8 reddit.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 10562
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;reddit.com.			IN	A
+
+;; ANSWER SECTION:
+reddit.com.		254	IN	A	151.101.193.140
+reddit.com.		254	IN	A	151.101.65.140
+reddit.com.		254	IN	A	151.101.129.140
+reddit.com.		254	IN	A	151.101.1.140
+
+;; Query time: 19 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Sun Oct 04 10:57:00 UTC 2026
+;; MSG SIZE  rcvd: 103
+
+
+=== reddit.com A @1.1.1.1 q1 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @1.1.1.1 reddit.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1964
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;reddit.com.			IN	A
+
+;; ANSWER SECTION:
+reddit.com.		280	IN	A	151.101.129.140
+reddit.com.		280	IN	A	151.101.65.140
+reddit.com.		280	IN	A	151.101.193.140
+reddit.com.		280	IN	A	151.101.1.140
+
+;; Query time: 19 msec
+;; SERVER: 1.1.1.1#53(1.1.1.1) (UDP)
+;; WHEN: Sun Oct 04 10:57:00 UTC 2026
+;; MSG SIZE  rcvd: 103
+
+
+=== reddit.com A @1.1.1.1 q2 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @1.1.1.1 reddit.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 3876
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;reddit.com.			IN	A
+
+;; ANSWER SECTION:
+reddit.com.		265	IN	A	151.101.129.140
+reddit.com.		265	IN	A	151.101.193.140
+reddit.com.		265	IN	A	151.101.1.140
+reddit.com.		265	IN	A	151.101.65.140
+
+;; Query time: 23 msec
+;; SERVER: 1.1.1.1#53(1.1.1.1) (UDP)
+;; WHEN: Sun Oct 04 10:57:00 UTC 2026
+;; MSG SIZE  rcvd: 103
+
+
+=== reddit.com A @1.1.1.1 q3 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @1.1.1.1 reddit.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 5409
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;reddit.com.			IN	A
+
+;; ANSWER SECTION:
+reddit.com.		280	IN	A	151.101.193.140
+reddit.com.		280	IN	A	151.101.1.140
+reddit.com.		280	IN	A	151.101.129.140
+reddit.com.		280	IN	A	151.101.65.140
+
+;; Query time: 19 msec
+;; SERVER: 1.1.1.1#53(1.1.1.1) (UDP)
+;; WHEN: Sun Oct 04 10:57:00 UTC 2026
+;; MSG SIZE  rcvd: 103
+
+
+=== reddit.com A @1.1.1.1 q4 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @1.1.1.1 reddit.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 37520
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;reddit.com.			IN	A
+
+;; ANSWER SECTION:
+reddit.com.		280	IN	A	151.101.193.140
+reddit.com.		280	IN	A	151.101.1.140
+reddit.com.		280	IN	A	151.101.129.140
+reddit.com.		280	IN	A	151.101.65.140
+
+;; Query time: 19 msec
+;; SERVER: 1.1.1.1#53(1.1.1.1) (UDP)
+;; WHEN: Sun Oct 04 10:57:00 UTC 2026
+;; MSG SIZE  rcvd: 103
+
+
+=== reddit.com A @1.1.1.1 q5 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @1.1.1.1 reddit.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 4581
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;reddit.com.			IN	A
+
+;; ANSWER SECTION:
+reddit.com.		280	IN	A	151.101.129.140
+reddit.com.		280	IN	A	151.101.65.140
+reddit.com.		280	IN	A	151.101.193.140
+reddit.com.		280	IN	A	151.101.1.140
+
+;; Query time: 15 msec
+;; SERVER: 1.1.1.1#53(1.1.1.1) (UDP)
+;; WHEN: Sun Oct 04 10:57:00 UTC 2026
+;; MSG SIZE  rcvd: 103
+
+
+=== reddit.com A @9.9.9.9 q1 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @9.9.9.9 reddit.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 7846
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;reddit.com.			IN	A
+
+;; ANSWER SECTION:
+reddit.com.		52	IN	A	151.101.193.140
+reddit.com.		52	IN	A	151.101.65.140
+reddit.com.		52	IN	A	151.101.129.140
+reddit.com.		52	IN	A	151.101.1.140
+
+;; Query time: 23 msec
+;; SERVER: 9.9.9.9#53(9.9.9.9) (UDP)
+;; WHEN: Sun Oct 04 10:57:00 UTC 2026
+;; MSG SIZE  rcvd: 103
+
+
+=== reddit.com A @9.9.9.9 q2 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @9.9.9.9 reddit.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 6589
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;reddit.com.			IN	A
+
+;; ANSWER SECTION:
+reddit.com.		52	IN	A	151.101.193.140
+reddit.com.		52	IN	A	151.101.65.140
+reddit.com.		52	IN	A	151.101.129.140
+reddit.com.		52	IN	A	151.101.1.140
+
+;; Query time: 23 msec
+;; SERVER: 9.9.9.9#53(9.9.9.9) (UDP)
+;; WHEN: Sun Oct 04 10:57:00 UTC 2026
+;; MSG SIZE  rcvd: 103
+
+
+=== reddit.com A @9.9.9.9 q3 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @9.9.9.9 reddit.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 62073
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;reddit.com.			IN	A
+
+;; ANSWER SECTION:
+reddit.com.		52	IN	A	151.101.193.140
+reddit.com.		52	IN	A	151.101.65.140
+reddit.com.		52	IN	A	151.101.129.140
+reddit.com.		52	IN	A	151.101.1.140
+
+;; Query time: 35 msec
+;; SERVER: 9.9.9.9#53(9.9.9.9) (UDP)
+;; WHEN: Sun Oct 04 10:57:00 UTC 2026
+;; MSG SIZE  rcvd: 103
+
+
+=== reddit.com A @9.9.9.9 q4 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @9.9.9.9 reddit.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 63854
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;reddit.com.			IN	A
+
+;; ANSWER SECTION:
+reddit.com.		52	IN	A	151.101.193.140
+reddit.com.		52	IN	A	151.101.65.140
+reddit.com.		52	IN	A	151.101.129.140
+reddit.com.		52	IN	A	151.101.1.140
+
+;; Query time: 35 msec
+;; SERVER: 9.9.9.9#53(9.9.9.9) (UDP)
+;; WHEN: Sun Oct 04 10:57:00 UTC 2026
+;; MSG SIZE  rcvd: 103
+
+
+=== reddit.com A @9.9.9.9 q5 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @9.9.9.9 reddit.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 51505
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;reddit.com.			IN	A
+
+;; ANSWER SECTION:
+reddit.com.		52	IN	A	151.101.193.140
+reddit.com.		52	IN	A	151.101.65.140
+reddit.com.		52	IN	A	151.101.129.140
+reddit.com.		52	IN	A	151.101.1.140
+
+;; Query time: 23 msec
+;; SERVER: 9.9.9.9#53(9.9.9.9) (UDP)
+;; WHEN: Sun Oct 04 10:57:00 UTC 2026
+;; MSG SIZE  rcvd: 103
+
+
+=== stackoverflow.com A @8.8.8.8 q1 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @8.8.8.8 stackoverflow.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 20478
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;stackoverflow.com.		IN	A
+
+;; ANSWER SECTION:
+stackoverflow.com.	300	IN	A	198.252.206.1
+
+;; Query time: 39 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Sun Oct 04 10:57:00 UTC 2026
+;; MSG SIZE  rcvd: 62
+
+
+=== stackoverflow.com A @8.8.8.8 q2 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @8.8.8.8 stackoverflow.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 10591
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;stackoverflow.com.		IN	A
+
+;; ANSWER SECTION:
+stackoverflow.com.	300	IN	A	198.252.206.1
+
+;; Query time: 47 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Sun Oct 04 10:57:01 UTC 2026
+;; MSG SIZE  rcvd: 62
+
+
+=== stackoverflow.com A @8.8.8.8 q3 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @8.8.8.8 stackoverflow.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 39724
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;stackoverflow.com.		IN	A
+
+;; ANSWER SECTION:
+stackoverflow.com.	300	IN	A	198.252.206.1
+
+;; Query time: 35 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Sun Oct 04 10:57:01 UTC 2026
+;; MSG SIZE  rcvd: 62
+
+
+=== stackoverflow.com A @8.8.8.8 q4 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @8.8.8.8 stackoverflow.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 43400
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;stackoverflow.com.		IN	A
+
+;; ANSWER SECTION:
+stackoverflow.com.	300	IN	A	198.252.206.1
+
+;; Query time: 47 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Sun Oct 04 10:57:01 UTC 2026
+;; MSG SIZE  rcvd: 62
+
+
+=== stackoverflow.com A @8.8.8.8 q5 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @8.8.8.8 stackoverflow.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 39671
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;stackoverflow.com.		IN	A
+
+;; ANSWER SECTION:
+stackoverflow.com.	300	IN	A	198.252.206.1
+
+;; Query time: 43 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Sun Oct 04 10:57:01 UTC 2026
+;; MSG SIZE  rcvd: 62
+
+
+=== stackoverflow.com A @1.1.1.1 q1 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @1.1.1.1 stackoverflow.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 23984
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;stackoverflow.com.		IN	A
+
+;; ANSWER SECTION:
+stackoverflow.com.	185	IN	A	198.252.206.1
+
+;; Query time: 23 msec
+;; SERVER: 1.1.1.1#53(1.1.1.1) (UDP)
+;; WHEN: Sun Oct 04 10:57:01 UTC 2026
+;; MSG SIZE  rcvd: 62
+
+
+=== stackoverflow.com A @1.1.1.1 q2 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @1.1.1.1 stackoverflow.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 32735
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;stackoverflow.com.		IN	A
+
+;; ANSWER SECTION:
+stackoverflow.com.	185	IN	A	198.252.206.1
+
+;; Query time: 19 msec
+;; SERVER: 1.1.1.1#53(1.1.1.1) (UDP)
+;; WHEN: Sun Oct 04 10:57:01 UTC 2026
+;; MSG SIZE  rcvd: 62
+
+
+=== stackoverflow.com A @1.1.1.1 q3 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @1.1.1.1 stackoverflow.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 23808
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;stackoverflow.com.		IN	A
+
+;; ANSWER SECTION:
+stackoverflow.com.	185	IN	A	198.252.206.1
+
+;; Query time: 19 msec
+;; SERVER: 1.1.1.1#53(1.1.1.1) (UDP)
+;; WHEN: Sun Oct 04 10:57:01 UTC 2026
+;; MSG SIZE  rcvd: 62
+
+
+=== stackoverflow.com A @1.1.1.1 q4 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @1.1.1.1 stackoverflow.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 31938
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;stackoverflow.com.		IN	A
+
+;; ANSWER SECTION:
+stackoverflow.com.	185	IN	A	198.252.206.1
+
+;; Query time: 15 msec
+;; SERVER: 1.1.1.1#53(1.1.1.1) (UDP)
+;; WHEN: Sun Oct 04 10:57:01 UTC 2026
+;; MSG SIZE  rcvd: 62
+
+
+=== stackoverflow.com A @1.1.1.1 q5 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @1.1.1.1 stackoverflow.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 40565
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;stackoverflow.com.		IN	A
+
+;; ANSWER SECTION:
+stackoverflow.com.	185	IN	A	198.252.206.1
+
+;; Query time: 23 msec
+;; SERVER: 1.1.1.1#53(1.1.1.1) (UDP)
+;; WHEN: Sun Oct 04 10:57:01 UTC 2026
+;; MSG SIZE  rcvd: 62
+
+
+=== stackoverflow.com A @9.9.9.9 q1 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @9.9.9.9 stackoverflow.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 36643
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;stackoverflow.com.		IN	A
+
+;; ANSWER SECTION:
+stackoverflow.com.	212	IN	A	198.252.206.1
+
+;; Query time: 27 msec
+;; SERVER: 9.9.9.9#53(9.9.9.9) (UDP)
+;; WHEN: Sun Oct 04 10:57:01 UTC 2026
+;; MSG SIZE  rcvd: 62
+
+
+=== stackoverflow.com A @9.9.9.9 q2 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @9.9.9.9 stackoverflow.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 14368
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;stackoverflow.com.		IN	A
+
+;; ANSWER SECTION:
+stackoverflow.com.	212	IN	A	198.252.206.1
+
+;; Query time: 27 msec
+;; SERVER: 9.9.9.9#53(9.9.9.9) (UDP)
+;; WHEN: Sun Oct 04 10:57:01 UTC 2026
+;; MSG SIZE  rcvd: 62
+
+
+=== stackoverflow.com A @9.9.9.9 q3 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @9.9.9.9 stackoverflow.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 21102
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;stackoverflow.com.		IN	A
+
+;; ANSWER SECTION:
+stackoverflow.com.	212	IN	A	198.252.206.1
+
+;; Query time: 27 msec
+;; SERVER: 9.9.9.9#53(9.9.9.9) (UDP)
+;; WHEN: Sun Oct 04 10:57:01 UTC 2026
+;; MSG SIZE  rcvd: 62
+
+
+=== stackoverflow.com A @9.9.9.9 q4 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @9.9.9.9 stackoverflow.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 6349
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;stackoverflow.com.		IN	A
+
+;; ANSWER SECTION:
+stackoverflow.com.	212	IN	A	198.252.206.1
+
+;; Query time: 31 msec
+;; SERVER: 9.9.9.9#53(9.9.9.9) (UDP)
+;; WHEN: Sun Oct 04 10:57:01 UTC 2026
+;; MSG SIZE  rcvd: 62
+
+
+=== stackoverflow.com A @9.9.9.9 q5 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @9.9.9.9 stackoverflow.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 2345
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;stackoverflow.com.		IN	A
+
+;; ANSWER SECTION:
+stackoverflow.com.	212	IN	A	198.252.206.1
+
+;; Query time: 31 msec
+;; SERVER: 9.9.9.9#53(9.9.9.9) (UDP)
+;; WHEN: Sun Oct 04 10:57:01 UTC 2026
+;; MSG SIZE  rcvd: 62
+
+
+=== linkedin.com A @8.8.8.8 q1 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @8.8.8.8 linkedin.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 60633
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;linkedin.com.			IN	A
+
+;; ANSWER SECTION:
+linkedin.com.		283	IN	A	130.211.32.14
+
+;; Query time: 47 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Sun Oct 04 10:57:01 UTC 2026
+;; MSG SIZE  rcvd: 57
+
+
+=== linkedin.com A @8.8.8.8 q2 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @8.8.8.8 linkedin.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 19205
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;linkedin.com.			IN	A
+
+;; ANSWER SECTION:
+linkedin.com.		5	IN	A	130.211.32.14
+
+;; Query time: 19 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Sun Oct 04 10:57:01 UTC 2026
+;; MSG SIZE  rcvd: 57
+
+
+=== linkedin.com A @8.8.8.8 q3 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @8.8.8.8 linkedin.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 48802
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;linkedin.com.			IN	A
+
+;; ANSWER SECTION:
+linkedin.com.		170	IN	A	130.211.32.14
+
+;; Query time: 23 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Sun Oct 04 10:57:01 UTC 2026
+;; MSG SIZE  rcvd: 57
+
+
+=== linkedin.com A @8.8.8.8 q4 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @8.8.8.8 linkedin.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 46035
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;linkedin.com.			IN	A
+
+;; ANSWER SECTION:
+linkedin.com.		131	IN	A	130.211.32.14
+
+;; Query time: 19 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Sun Oct 04 10:57:01 UTC 2026
+;; MSG SIZE  rcvd: 57
+
+
+=== linkedin.com A @8.8.8.8 q5 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @8.8.8.8 linkedin.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 20510
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;linkedin.com.			IN	A
+
+;; ANSWER SECTION:
+linkedin.com.		229	IN	A	130.211.32.14
+
+;; Query time: 47 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Sun Oct 04 10:57:01 UTC 2026
+;; MSG SIZE  rcvd: 57
+
+
+=== linkedin.com A @1.1.1.1 q1 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @1.1.1.1 linkedin.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 55549
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;linkedin.com.			IN	A
+
+;; ANSWER SECTION:
+linkedin.com.		11	IN	A	130.211.32.14
+
+;; Query time: 11 msec
+;; SERVER: 1.1.1.1#53(1.1.1.1) (UDP)
+;; WHEN: Sun Oct 04 10:57:01 UTC 2026
+;; MSG SIZE  rcvd: 57
+
+
+=== linkedin.com A @1.1.1.1 q2 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @1.1.1.1 linkedin.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 64147
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;linkedin.com.			IN	A
+
+;; ANSWER SECTION:
+linkedin.com.		116	IN	A	130.211.32.14
+
+;; Query time: 19 msec
+;; SERVER: 1.1.1.1#53(1.1.1.1) (UDP)
+;; WHEN: Sun Oct 04 10:57:01 UTC 2026
+;; MSG SIZE  rcvd: 57
+
+
+=== linkedin.com A @1.1.1.1 q3 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @1.1.1.1 linkedin.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 3101
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;linkedin.com.			IN	A
+
+;; ANSWER SECTION:
+linkedin.com.		300	IN	A	130.211.32.14
+
+;; Query time: 75 msec
+;; SERVER: 1.1.1.1#53(1.1.1.1) (UDP)
+;; WHEN: Sun Oct 04 10:57:02 UTC 2026
+;; MSG SIZE  rcvd: 57
+
+
+=== linkedin.com A @1.1.1.1 q4 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @1.1.1.1 linkedin.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 8486
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;linkedin.com.			IN	A
+
+;; ANSWER SECTION:
+linkedin.com.		300	IN	A	130.211.32.14
+
+;; Query time: 75 msec
+;; SERVER: 1.1.1.1#53(1.1.1.1) (UDP)
+;; WHEN: Sun Oct 04 10:57:02 UTC 2026
+;; MSG SIZE  rcvd: 57
+
+
+=== linkedin.com A @1.1.1.1 q5 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @1.1.1.1 linkedin.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 8846
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;linkedin.com.			IN	A
+
+;; ANSWER SECTION:
+linkedin.com.		300	IN	A	130.211.32.14
+
+;; Query time: 75 msec
+;; SERVER: 1.1.1.1#53(1.1.1.1) (UDP)
+;; WHEN: Sun Oct 04 10:57:02 UTC 2026
+;; MSG SIZE  rcvd: 57
+
+
+=== linkedin.com A @9.9.9.9 q1 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @9.9.9.9 linkedin.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 27423
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;linkedin.com.			IN	A
+
+;; ANSWER SECTION:
+linkedin.com.		289	IN	A	130.211.32.14
+
+;; Query time: 31 msec
+;; SERVER: 9.9.9.9#53(9.9.9.9) (UDP)
+;; WHEN: Sun Oct 04 10:57:02 UTC 2026
+;; MSG SIZE  rcvd: 57
+
+
+=== linkedin.com A @9.9.9.9 q2 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @9.9.9.9 linkedin.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 37641
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;linkedin.com.			IN	A
+
+;; ANSWER SECTION:
+linkedin.com.		289	IN	A	130.211.32.14
+
+;; Query time: 27 msec
+;; SERVER: 9.9.9.9#53(9.9.9.9) (UDP)
+;; WHEN: Sun Oct 04 10:57:02 UTC 2026
+;; MSG SIZE  rcvd: 57
+
+
+=== linkedin.com A @9.9.9.9 q3 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @9.9.9.9 linkedin.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 43526
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;linkedin.com.			IN	A
+
+;; ANSWER SECTION:
+linkedin.com.		289	IN	A	130.211.32.14
+
+;; Query time: 31 msec
+;; SERVER: 9.9.9.9#53(9.9.9.9) (UDP)
+;; WHEN: Sun Oct 04 10:57:02 UTC 2026
+;; MSG SIZE  rcvd: 57
+
+
+=== linkedin.com A @9.9.9.9 q4 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @9.9.9.9 linkedin.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 29999
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;linkedin.com.			IN	A
+
+;; ANSWER SECTION:
+linkedin.com.		289	IN	A	130.211.32.14
+
+;; Query time: 31 msec
+;; SERVER: 9.9.9.9#53(9.9.9.9) (UDP)
+;; WHEN: Sun Oct 04 10:57:02 UTC 2026
+;; MSG SIZE  rcvd: 57
+
+
+=== linkedin.com A @9.9.9.9 q5 rc=0 ===
+
+; <<>> DiG 9.20.24-1ubuntu0.3-Ubuntu <<>> @9.9.9.9 linkedin.com A +time=3 +tries=1
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 37736
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;linkedin.com.			IN	A
+
+;; ANSWER SECTION:
+linkedin.com.		289	IN	A	130.211.32.14
+
+;; Query time: 27 msec
+;; SERVER: 9.9.9.9#53(9.9.9.9) (UDP)
+;; WHEN: Sun Oct 04 10:57:02 UTC 2026
+;; MSG SIZE  rcvd: 57
+
+

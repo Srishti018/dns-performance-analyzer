@@ -1,0 +1,2 @@
+timestamp,domain,record_type,dns_server,query_number,response_time_ms,status,answer,ttl,return_code
+2026-10-04T10:56:58+00:00,microsoft.com,A,1.1.1.1,5,,NO_RESPONSE,,,9

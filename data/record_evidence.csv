@@ -1,0 +1,21 @@
+domain,record_type,status,answer,ttl,median_ms
+example.com,A,NOERROR,172.66.147.243; 104.20.23.154,300.0,43.0
+example.com,AAAA,NOERROR,2606:4700:9a95:72db:f2c5:0:ef6b:ff98,60.0,51.0
+example.com,CNAME,NOERROR (NODATA),-,,39.0
+example.com,MX,NOERROR,0 .,153.0,47.0
+example.com,NS,NOERROR,hera.ns.cloudflare.com.; elliott.ns.cloudflar,20907.0,43.0
+github.com,A,NOERROR,20.207.73.82,60.0,47.0
+github.com,AAAA,NOERROR (NODATA),-,,19.0
+github.com,CNAME,NOERROR (NODATA),-,,43.0
+github.com,MX,NOERROR,0 github-com.mail.protection.outlook.com.,148.0,51.0
+github.com,NS,NOERROR,ns-1283.awsdns-32.org.; dns2.p08.nsone.net.; ,550.0,47.0
+google.com,A,NOERROR,142.251.43.46,141.0,23.0
+google.com,AAAA,NOERROR,2404:6800:4007:810::200e,156.0,39.0
+google.com,CNAME,NOERROR (NODATA),-,,47.0
+google.com,MX,NOERROR,10 smtp.google.com.,282.0,23.0
+google.com,NS,NOERROR,ns4.google.com.; ns2.google.com.; ns1.google.,21600.0,39.0
+www.github.com,A,NOERROR,20.207.73.82,6.0,39.0
+www.github.com,AAAA,NOERROR (NODATA),-,,19.0
+www.github.com,CNAME,NOERROR,github.com.,2594.0,43.0
+www.github.com,MX,NOERROR,0 github-com.mail.protection.outlook.com.,300.0,51.0
+www.github.com,NS,NOERROR,dns2.p08.nsone.net.; dns3.p08.nsone.net.; dns,207.0,47.0
